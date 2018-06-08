@@ -1,9 +1,11 @@
 @charset utf-8;
 
 p {
-	color: red;
+	color: blue;
 }
 
 .oi {
-	background-color: red;
+	margin-right: 100px;
+	margin-left: 100px;
+	background-color: #9C9C9C;
 }
